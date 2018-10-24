@@ -36,7 +36,7 @@ with open('p2sentiment.csv', 'w', newline='') as csvfile:
 
 #polarity - how positive or negative the tweet is
 #subjectivity - how much opininon it is vs how much factual
-
+#contouring
     	
     	
     	
