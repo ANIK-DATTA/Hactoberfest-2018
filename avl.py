@@ -413,4 +413,4 @@ height = (B.height(B.root))
 B.setHeight(B.root)
 # B.printTree(B.root)
 
-# B.showHeight(B.root)
+## B.showHeight(B.root)
