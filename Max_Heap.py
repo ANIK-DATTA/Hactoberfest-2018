@@ -101,10 +101,10 @@ class binaryHeap:
             m[b] = l[a]
             a = a + 1
 
-        # t = 1
-        # for i in range(1,p):
-        #     print(m[t])
-        #     t = t + 1
+        '''t = 1
+          for i in range(1,p):
+              print(m[t])
+              t = t + 1  '''
         j = a
         for i in range(a):
             p = j
@@ -172,24 +172,24 @@ def main():
         k = int(input("enter : "))
         pq.insert(k, t)
         t = t + 1
-    # #
-    # # pq.show()
-    # # pq.max()
-    # # pq.extractMax()
-    # # pq.show()
-    # # pq.extractMax()
-    # # pq.show()
-    #
-    # # bh = binaryHeap()
-    # t = 1
-    # l = [1, 2, 3, 4, 5, 6]
-    # pq.buildHeap(l)
-    # # for i in range(n):
-    # #     pq.insertQ(t,t)
-    # #     t = t + 1
-    # # pq.show()
-    # # pq.heapify(1)
-    # pq.show()
+    '''
+        pq.show()
+        pq.max()
+        pq.extractMax()
+        pq.show()
+        pq.extractMax()
+        pq.show()
+    
+        bh = binaryHeap()
+      t = 1
+      l = [1, 2, 3, 4, 5, 6]
+      pq.buildHeap(l)
+        for i in range(n):
+            pq.insertQ(t,t)
+            t = t + 1
+        pq.show()
+        pq.heapify(1)
+      pq.show()  '''
 
 
 
