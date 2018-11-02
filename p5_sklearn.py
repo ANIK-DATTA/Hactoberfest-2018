@@ -1,6 +1,7 @@
 #functools for reusability
 #pillow is an imaging library
 #urllib to download data from web
+#changes
 
 import numpy as np
 from functools import partial
